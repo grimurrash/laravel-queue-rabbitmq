@@ -12,7 +12,7 @@
     "php": ">=8.0",
     "ext-json": "*",
     "illuminate/queue": "^9.0",
-    "grimurrash/php-amqplib": "^3.0"
+    "grimurrash/php-amqplib": "v1"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.3",
