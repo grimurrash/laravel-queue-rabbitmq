@@ -11,7 +11,7 @@
   "require": {
     "php": ">=8.2",
     "ext-json": "*",
-    "illuminate/queue": "^9.0",
+    "illuminate/queue": "^10.0",
     "grimurrash/php-amqplib": "v8.2"
   },
   "require-dev": {
@@ -19,7 +19,7 @@
     "mockery/mockery": "^1.0",
     "laravel/horizon": "^5.0",
     "friendsofphp/php-cs-fixer": "^3.6",
-    "orchestra/testbench": "^7.0"
+    "orchestra/testbench": "^8.5"
   },
   "autoload": {
     "psr-4": {
